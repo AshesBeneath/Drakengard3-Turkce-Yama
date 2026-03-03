@@ -1,4 +1,4 @@
-# Drakengard 3 (PS3) Türkçe Yama
+# Drakengard 3 (NPUB-31251) Türkçe Yama
 *NieR'in köklerinin köklerini anlatan* Drakengard 3 (Japon adıyla Drag-On Dragoon 3) oyunu için yaptığım Türkçe Dil yamasını paylaşıyorum.
 Amacım benim gibi NieR serisinin sevmiş, benimsemiş, tutkusu haline getirmiş Türk hayranlarının bu oyunu dil engeli olmadan tadını çıkarabilmelerini sağlamaktır.
 
@@ -16,17 +16,16 @@ Amacım benim gibi NieR serisinin sevmiş, benimsemiş, tutkusu haline getirmiş
 - Ya da daha gayri resmi bir yöntem olan *"yedi denizlere açılma"* vasıtasıyla da elde edebilirsiniz.
 
 ### Hikaye Konusu
-Ters çevrilmiş Avrupa kıtasına benzeyen Midgard denen bir diyarda bitmeyen savaş ve kaos hakimdi. Günün birinde mistik şarkılarla kontrol ettikleri tanrısal güçlere sahip sonrasında "Intoner" olarak isimlendirilmiş kız kardeşler ortaya çıkmış. Intonerlar, tüm zalim hükümdarları alt ederek bütün Midgard'ın mutlak egemenliğini ele alarak dünyada barış ve huzuru sağlamışlar. Ama Intonerların hükümdarlığı altındaki "Lale Devri", ana karakterimiz -Intonerların yaşça en büyüğü- Zero'nun ortaya çıkmasıyla fazla sürmemiş. Intoner kardeşlerini öldürmeye yemin etmiş olan Zero, yanında sadık ejderhası ve dostu Michael ile kanlı seferine başlar.
+Ters çevrilmiş Avrupa kıtasına benzeyen Midgard denen bir diyarda bitmeyen savaş ve kaos hakimdi. Günün birinde mistik şarkılarla kontrol ettikleri tanrısal güçlere sahip sonrasında *Intoner* adı verilmiş kız kardeşler ortaya çıkmış. Intonerlar, tüm zalim hükümdarları alt ederek bütün Midgard'ın mutlak egemenliğini ele alarak dünyada barış ve huzuru sağlamışlar. Ama Intonerların hükümdarlığı altındaki "Lale Devri", ana karakterimiz -Intonerların yaşça en büyüğü- Zero'nun ortaya çıkmasıyla fazla sürmemiş. Intoner kardeşlerini öldürmeye yemin etmiş olan Zero, yanında sadık ejderhası ve dostu Michael ile kanlı seferine başlar.
 
 Oyun diyaloglarında ağırlıklı kara mizah, bel altı ve rahatsız edici imalar içermektedir.
 
 ## Yama Özellikleri
 - Oyunun orijinal dili Japonca, tabii Japonca bilmediğim için çeviriyi dublajlı ve hafif sansürlenmiş İngilizce metinler üzerinden gerçekleştirdim.
-- **NPUB31251 (Avrupa) v.1.01 sürümü destekleniyor.**
+- **NPUB31251 (US) v.1.01 sürümü destekleniyor.**
 - Tüm ana oyun ve 6 hikaye DLC diyalogları, arayüz metinleri ve alt metinler çevrildi.
 - Oyunda desteklenmeyen (boşluk veya kare olarak görünen) Türkçe harfler (Ğ/ğ, Ş/ş, İ/ı) yazı tipine entegre edildi.
 - Metin içeren texture'lar çevrilmiş alternetifleriyle değiştirildi.
 - Çevirilerin çoğunluğu kendi el çevirimdir. Sadece içinden çıkamadğım aşırı belirsiz metinlerde yeterince arkaplan bağlamı sağladığım yapay zekadan yardım aldım.
 
 ***Çeviri yeteneğimi kesinlikle üstün bulmuyorum, hatalar, mantıksızlıklar falan olabilir. Elimden geldiğince düz çevirmekten kaçınmaya, cümleleri aynı mesajı verecek şekilde değiştirmeye ve daha renkli üsluplar kullanmaya çalıştım, ama tabii ki gelecek iyileştirmelere açıktır.***
-
