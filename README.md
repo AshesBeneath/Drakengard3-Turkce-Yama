@@ -62,7 +62,8 @@ Eğer bir gün bu oyuna PC portu veya remaster falan çıkartılıp Steam gibi k
 - Üstten noktalı/çentikli büyük harflerin (Ö Ü İ Ğ) noktaları gözükmemekte. Oyun, karakterlerin görüntüsünü çekerken harfin kendisinin üstündeki pikselleri (noktaların olduğu alan) okumamakta, oyundan kaynaklı bir sorun, İngilizce'de noktalı büyük harf olmadığı için yapımcılar fark etmemiş ya da düzeltmekle uğraşmamışlar.
 - Bazı arayüz kısımları (düşman, item isimleri) direkt texture resmine gömülü halde olduğundan resimleri düzenleyerek değiştirdim. Oyunun kullandığı yazı tipini bir türlü bulamadığım için programda hazır ücretsiz bir tane kullandım.
 <img src="./issues/font.png" alt="font" width="35%">
-- Ara sahnelerde alt yazıları haricinde bazı yazılar (örn: Bölüm 1 son bossu alt ettikten sonraki ara sahne) direkt bir videodan geliyor. Oyundaki tüm ara sahneler BIK formatında 720p 30 fps videolar. Videoyu editleyerek değiştirilebilir ama o da ufacık şeyler için fazla zahmete girdiğinden uğraşmaya yeltenmedim.
+
+- Ara sahnelerde alt yazıları harici metinler (örn: Bölüm 1 sonu sansürü) direkt bir videodan geliyor. Oyundaki tüm ara sahneler BIK formatında 720p 30 fps videolar. Videoyu editleyerek değiştirilebilir ama o da ufacık şeyler için fazla zahmete girdiğinden uğraşmaya yeltenmedim.
 - Birkaç bölümde görev yazıları (şuraya git, onu öldür, bunu yok et vs.) Türkçe görünmüyor. Optimizasyon amacıyla oyundaki aynı text tabloları 3-4 farklı dosyasında yer alıyor, hangisi hafızaya yüklenirse oyun onu kullanıyor. Bazı metin tabloların hepsini değiştirmeme rağmen orijinalini gösteriyor.
   - Sırayla etkilenen yerler: Bölüm 2 Mısra 3, Bölüm 3 Mısra 6, Bölüm 2 Kayıp Mısra
 
