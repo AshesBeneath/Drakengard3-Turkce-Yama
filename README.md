@@ -35,11 +35,12 @@ Ters çevrilmiş Avrupa kıtasına benzeyen Midgard denen bir diyarda bitmeyen s
 - Ya da daha gayri resmi bir yöntem olan *"yedi denizlere açılma"* vasıtasıyla da elde edebilirsiniz.
 
 ## İndirme & Kurulum
-İndir - Link hazır olunca eklenecek
+İndir - [Google Drive](https://drive.google.com/drive/folders/1hcWT-pk-RVAWJrT6LU02-gqcJbOcqepl?usp=drive_link)
 
 Kurulum yönergelerini Drive klasöründeki PDF dosyasında yer almaktadır.
 
 Tekrar düşününce bu oyunu yasal olarak sahip olmak oldukça zahmet gerektirdiğinden korsanlanmasını haklı buluyorum dolayısıyla oyunu ve yamanın dahil olduğu DLC'leri kolayca indirecek güvenilir kaynak da dahil ettim.
+
 Eğer bir gün bu oyuna PC portu veya remaster falan çıkartılıp Steam gibi kolay erişilebilir platformlarda yayınlanırsa geri kaldırırım.
 (Yamayı da oraya taşırım :wink:)
 
@@ -49,10 +50,12 @@ Eğer bir gün bu oyuna PC portu veya remaster falan çıkartılıp Steam gibi k
 
 ## Bilinen Kusurlar / Hatalar
 - Olmayan Türkçe karakterleri mevcut kullanılmayanlarla değiştirerek modladığım için oyun bunları gösterirken önceki karakterin genişlik/yükseklik değerlerine göre render yapıyor. Dolayısıyla diğer karakterlerle yan yana geldiğinde arada hafif boşluk oluşmakta.
-(glyph pics)
+
+<img src="./issues/glyph1.png" alt="glyph1" width="30%" height="30%"> <img src="./issues/glyph2.png" alt="glyph2" width="30%" height="30%">
+
 - Üstten noktalı/çentikli büyük harflerin (Ö Ü İ Ğ) noktaları gözükmemekte. Oyun, karakterlerin görüntüsünü çekerken harfin kendisinin üstündeki pikselleri (noktaların olduğu alan) okumamakta, oyundan kaynaklı bir sorun, İngilizce'de noktalı büyük harf olmadığı için yapımcılar fark etmemiş ya da düzeltmekle uğraşmamışlar.
 - Bazı arayüz kısımları (düşman, item isimleri) direkt texture resmine gömülü halde olduğundan resimleri düzenleyerek değiştirdim. Oyunun kullandığı yazı tipini bir türlü bulamadığım için programda hazır ücretsiz bir tane kullandım.
-(pic here)
+<img src="./issues/font.png" alt="font" width="35%">
 - Ara sahnelerde alt yazıları haricinde bazı yazılar (örn: Bölüm 1 son bossu alt ettikten sonraki ara sahne) direkt bir videodan geliyor. Oyundaki tüm ara sahneler BIK formatında 720p 30 fps videolar. Videoyu editleyerek değiştirilebilir ama o da ufacık şeyler için fazla zahmete girdiğinden uğraşmaya yeltenmedim.
 - Birkaç bölümde görev yazıları (şuraya git, onu öldür, bunu yok et vs.) Türkçe görünmüyor. Optimizasyon amacıyla oyundaki aynı text tabloları 3-4 farklı dosyasında yer alıyor, hangisi hafızaya yüklenirse oyun onu kullanıyor. Bazı metin tabloların hepsini değiştirmeme rağmen orijinalini gösteriyor.
   - Sırayla etkilenen yerler: Bölüm 2 Mısra 3, Bölüm 3 Mısra 6, Bölüm 2 Kayıp Mısra
