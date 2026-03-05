@@ -1,4 +1,4 @@
-# Drakengard 3 (NPUB-31251) Türkçe Yama
+# Drakengard 3 (NPUB31251) Türkçe Yama
 > **For Non-Turkish speaking folks**, this page of text is about Turkish Support Patch for the PS3 game "Drakengard 3" that I've been working on. Thanks for the interest though :)
 
 NieR serisinin *köklerinin köklerini* anlatan Drakengard 3 (Japon adıyla Drag-On Dragoon 3) oyunu için Türkçe Yama yaptım.
@@ -89,7 +89,7 @@ Her türlü katkıda bulunanı oyun sonu credits alanına eklerim.
 </details>
 <details>
 <summary><b>Oyunu oynadım tüm hikayeyi bitirdim, hikaye ile ilgili merak ettiklerim var.</b></summary>
-bkz: Oyun/Hikaye ilgili Soru-Cevap
+bkz: <a href="./Lore-FAQ.md">Hikaye ile ilgili soru/cevap</a>
 </details>
 <details>
 <summary><b>Neden bu kadar uğraştın?</b></summary>
