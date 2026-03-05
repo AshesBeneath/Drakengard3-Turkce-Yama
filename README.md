@@ -28,6 +28,12 @@ Ters çevrilmiş Avrupa kıtasına benzeyen Midgard denen bir diyarda bitmeyen s
 > [!NOTE]
 > ***Çeviri yeteneğimi kesinlikle mükemmel bulmuyorum, hatalar, mantıksızlıklar falan olabilir. Elimden geldiğince düz çevirmekten kaçınmaya, cümleleri aynı mesajı verecek şekilde değiştirmeye ve daha renkli üsluplar kullanmaya çalıştım, ama tabii ki gelecek iyileştirmelere açıktır.***
 
+## Ekran Götüntüleri
+<img src="./screenshots/book.jpg" alt="book" width="40%" height="40%"> <img src="./screenshots/intermission.jpg" alt="intermission" width="40%" height="40%">
+<img src="./screenshots/shopsign.jpg" alt="shopsign" width="40%" height="40%"> <img src="./screenshots/weapon.jpg" alt="weapon" width="40%" height="40%">
+<img src="./screenshots/dialog1.jpg" alt="dialog1" width="40%" height="40%"> <img src="./screenshots/dialog2.jpg" alt="dialog2" width="40%" height="40%">
+<img src="./screenshots/dialog3.jpg" alt="dialog3" width="40%" height="40%"> <img src="./screenshots/dialog4.jpg" alt="dialog4" width="40%" height="40%">
+
 ## Nasıl oynanır?
 - Normalde sadece Playstation 3 platformu için çıkmış ama [RPCS3](https://rpcs3.net/) emülatörü ile PC'de oynanabilir.
 - Oyunun orijinal CD'si elinizde varsa uyumlu bir optik sürücü veya jailbreaklenmiş PS3 aracılığıyla PC'ye aktarım yapılabilir. İlgili yönergeler [RPCS3 sayfasında](https://wiki.rpcs3.net/index.php?title=Help:Dumping_PlayStation_3_games) var.
