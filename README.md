@@ -28,7 +28,7 @@ Ters çevrilmiş Avrupa kıtasına benzeyen Midgard denen bir diyarda bitmeyen s
 > [!NOTE]
 > ***Çeviri yeteneğimi kesinlikle mükemmel bulmuyorum, hatalar, mantıksızlıklar falan olabilir. Elimden geldiğince düz çevirmekten kaçınmaya, cümleleri aynı mesajı verecek şekilde değiştirmeye ve daha renkli üsluplar kullanmaya çalıştım, ama tabii ki gelecek iyileştirmelere açıktır.***
 
-## Ekran Götüntüleri
+## Ekran Görüntüleri
 <img src="./screenshots/book.jpg" alt="book" width="40%" height="40%"> <img src="./screenshots/intermission.jpg" alt="intermission" width="40%" height="40%">
 <img src="./screenshots/shopsign.jpg" alt="shopsign" width="40%" height="40%"> <img src="./screenshots/weapon.jpg" alt="weapon" width="40%" height="40%">
 <img src="./screenshots/dialog1.jpg" alt="dialog1" width="40%" height="40%"> <img src="./screenshots/dialog2.jpg" alt="dialog2" width="40%" height="40%">
