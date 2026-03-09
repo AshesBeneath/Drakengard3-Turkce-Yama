@@ -1,7 +1,5 @@
 # Drakengard 3 (NPUB31251) Türkçe Yama
-> **For Non-Turkish speaking folks**, this page of text is about Turkish Support Patch for the PS3 game "Drakengard 3" that I've been working on. Thanks for the interest though :)
-
-NieR serisinin *köklerinin köklerini* anlatan Drakengard 3 (Japon adıyla Drag-On Dragoon 3) oyunu için Türkçe Yama yaptım.
+NieR serisinin *köklerinin köklerini* anlatan Drakengard 3 (Japon adıyla Drag-On Dragoon 3) oyunu için RPCS3 emülatörü üzerinden kullanılmak üzere Türkçe Yama.
 
 Amacım benim gibi NieR evrenini sevmiş, benimsemiş, tutkusu haline getirmiş Türk hayranlarının bu oyunu dil engeli olmadan tadını çıkarabilmelerini sağlamaktır.
 
@@ -113,4 +111,4 @@ Yamayı yaparken kullandığım program/araçların geliştiricilerine sonsuz te
 - [Gildor's UE Tools](https://www.gildor.org/downloads)
 
 > [!IMPORTANT]
-> Bu projeye 2024 sonlarından başlamıştım fakat özel sebeplerden dolayı yarım bırakmıştım, yakın zamanda yeniden ele alıp bitirme fırsatım sonunda oldu. <a href="https://forum.donanimhaber.com/drakengard-3-ceviri-projesi-nino-ceviri-ekibi--162678920">Nino Çeviri Ekibi tarafından Aralık 2025'de anons edilmiş yama</a> ile bir bağlantısı yoktur.
+> Bu projeye 2024 sonlarından başlamıştım fakat özel sebeplerden dolayı yarım bırakmıştım, yakın zamanda yeniden ele alıp bitirme fırsatım sonunda oldu. Diğer anons edilmiş projelerle bağlantısı yoktur.
