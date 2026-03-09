@@ -1,5 +1,6 @@
 # Drakengard 3 (NPUB31251) Türkçe Yama
 <img align="middle" src="./misc/dod3art.jpg" alt="Drakengard 3 Türkçe Yama" width="75%" height="75%">
+
 NieR serisinin *köklerinin köklerini* anlatan Drakengard 3 (Japon adıyla Drag-On Dragoon 3) oyunu için tamamladığım Türkçe yamayı burada paylaşıyorum.
 
 Amacım benim gibi NieR evrenini sevmiş, benimsemiş, tutkusu haline getirmiş Türk hayranlarının bu oyunu dil engeli olmadan tadını çıkarabilmelerini sağlamaktır.
@@ -112,3 +113,8 @@ Yamayı yaparken kullandığım program/araçların geliştiricilerine sonsuz te
 
 > [!IMPORTANT]
 > Bu projeye 2024 sonlarından başlamıştım fakat özel sebeplerden dolayı yarım bırakmıştım, yakın zamanda yeniden ele alıp bitirme fırsatım sonunda oldu. Diğer anons edilmiş projelerle bağlantısı yoktur.
+
+> Kendime not:
+> Daha iyi SOL indexlemesi için Github Pages sitesi hazırla
+> Lore FAQ tamamla
+> Anksiyetini yenip birkaç foruma post at
