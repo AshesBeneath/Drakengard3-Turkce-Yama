@@ -1,8 +1,8 @@
 # Drakengard 3 (NPUB31251) Türkçe Yama
-NieR serisinin *köklerinin köklerini* anlatan Drakengard 3 (Japon adıyla Drag-On Dragoon 3) oyunu için RPCS3 emülatörü üzerinden kullanılmak üzere Türkçe Yama.
+<img align="middle" src="./misc/dod3art.jpg" alt="Drakengard 3 Türkçe Yama" width="75%" height="75%">
+NieR serisinin *köklerinin köklerini* anlatan Drakengard 3 (Japon adıyla Drag-On Dragoon 3) oyunu için tamamladığım Türkçe yamayı burada paylaşıyorum.
 
 Amacım benim gibi NieR evrenini sevmiş, benimsemiş, tutkusu haline getirmiş Türk hayranlarının bu oyunu dil engeli olmadan tadını çıkarabilmelerini sağlamaktır.
-
 ## Oyun Hakkında
 - NieR oyunlarından farklı evrende geçse bile ilk Drakengard oyununun sonlarından biriyle evrenler birbirine bağlanmaktadır. Drakengard 3 ise ondan da öncesini konu almaktadır, hem NieR hem de Drakengard serisi ele alındığında kronolojik olarak ilk sıradaki oyundur.
 - Tıpki NieR gibi sırayla A, B, C, D sonları olarak bitiriliyor ama her bir sona bağlanan olaylar oldukça farklılaşmaktadır ve birbirinden bağımsız farklı sonuçlara sebep olmaktadır. Replicant gibi *"aynı şeyleri 3-4 kere daha yap ama yeni bağlamlar öğren"* durumu yok. Ayrıca hikayede bu çoklu branşların/sonların olayı da açıklanıyor.
@@ -41,7 +41,7 @@ Ters çevrilmiş Avrupa kıtasına benzeyen Midgard denen bir diyarda bitmeyen s
 ## İndirme & Kurulum
 İndir - [Google Drive](https://drive.google.com/drive/folders/1hcWT-pk-RVAWJrT6LU02-gqcJbOcqepl?usp=drive_link)
 
-Kurulum yönergelerini Drive klasöründeki PDF dosyasında yer almaktadır.
+Adım adım resimli kurulum yönergeleri Drive klasöründe PDF dosyasında yer almaktadır.
 
 Tekrar düşününce bu oyunu yasal olarak sahip olmak oldukça zahmet gerektirdiğinden korsanlanmasını haklı buluyorum dolayısıyla oyunu ve yamanın dahil olduğu DLC'leri kolayca indirecek güvenilir kaynak da dahil ettim.
 
