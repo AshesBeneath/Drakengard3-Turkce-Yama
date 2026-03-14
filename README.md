@@ -55,9 +55,6 @@ Eğer bir gün bu oyuna PC portu veya remaster falan çıkartılıp Steam gibi k
 
 ## Bilinen Kusurlar / Hatalar
 - Olmayan Türkçe karakterleri mevcut kullanılmayanlarla değiştirerek modladığım için oyun bunları gösterirken önceki karakterin genişlik/yükseklik değerlerine göre render yapıyor. Dolayısıyla diğer karakterlerle yan yana geldiğinde arada hafif boşluk oluşmakta.
-
-<img src="./issues/glyph1.png" alt="glyph1" width="30%" height="30%"> <img src="./issues/glyph2.png" alt="glyph2" width="30%" height="30%">
-
 - Üstten noktalı/çentikli büyük harflerin (Ö Ü İ Ğ) noktaları gözükmemekte. Oyun, karakterlerin görüntüsünü çekerken harfin kendisinin üstündeki pikselleri (noktaların olduğu alan) okumamakta, oyundan kaynaklı bir sorun, İngilizce'de noktalı büyük harf olmadığı için yapımcılar fark etmemiş ya da düzeltmekle uğraşmamışlar.
 - Bazı arayüz kısımları (düşman, item isimleri) direkt texture resmine gömülü halde olduğundan resimleri düzenleyerek değiştirdim. Oyunun kullandığı yazı tipini bir türlü bulamadığım için programda hazır ücretsiz bir tane kullandım.
 <img src="./issues/font.png" alt="font" width="35%">
@@ -88,10 +85,6 @@ GitHub hesabın varsa bu repoya issue açarak bildirebilirsin ya da <a href="htt
 Her türlü katkıda bulunanı oyun sonu credits alanına eklerim.
 </details>
 <details>
-<summary><b>Oyunu oynadım tüm hikayeyi bitirdim, hikaye ile ilgili merak ettiklerim var.</b></summary>
-bkz: <a href="./Lore-FAQ.md">Hikaye ile ilgili soru/cevap</a>
-</details>
-<details>
 <summary><b>Neden bu kadar uğraştın?</b></summary>
 Çünkü tam bir DrakeNieR hastasıyım ve keyfim geldikçe böyle şeylerle uğraşmayı seviyorum.
 </details>
@@ -113,8 +106,3 @@ Yamayı yaparken kullandığım program/araçların geliştiricilerine sonsuz te
 
 > [!IMPORTANT]
 > Bu projeye 2024 sonlarından başlamıştım fakat özel sebeplerden dolayı yarım bırakmıştım, yakın zamanda yeniden ele alıp bitirme fırsatım sonunda oldu. Diğer anons edilmiş projelerle bağlantısı yoktur.
-
-> Kendime not:
-> Daha iyi SOL indexlemesi için Github Pages sitesi hazırla
-> Lore FAQ tamamla
-> Anksiyetini yenip birkaç foruma post at
