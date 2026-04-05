@@ -1,3 +1,6 @@
+## Önemli Duyuru  
+Paylaştığım kişilerden aldığım geri bildirimler sonucu yamaya güncelleme gelecektir. Güncel halini bitirdiğimde üzerinde çalıştığım kişisel sitemde paylaşacam, burası siteye yönlendirilmek üzere değiştirilecektir.
+
 # Drakengard 3 (NPUB31251) Türkçe Yama
 <img align="middle" src="./misc/dod3art.jpg" alt="Drakengard 3 Türkçe Yama" width="75%" height="75%">
 
